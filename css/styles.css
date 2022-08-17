@@ -1,0 +1,11 @@
+#main {
+    background-color: yellow;
+    height: 100px;
+    position: relative;
+}
+
+#heading {
+    position: absolute;
+    background-color: green;
+    right:10px;
+}
